@@ -24,7 +24,7 @@ body {
 
 .image {
     background-image: 
-    url(./daenerys-great-3.png);
+    url("./daenerys-great-3.png");
     width: 800px;
     height: 500px;
     background-size: contain;
