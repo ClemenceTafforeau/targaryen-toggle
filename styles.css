@@ -24,7 +24,7 @@ body {
 
 .image {
     background-image: 
-    url(daenerys-great-3.png);
+    url(targaryen-toggle/daenerys-great-3.png);
     width: 800px;
     height: 500px;
     background-size: contain;
@@ -38,7 +38,7 @@ body {
 
 .image[aria-pressed="true"] {
     background-image: 
-    url(Daenerys-mad-queen-2.png);
+    url(targaryen-toggle/Daenerys-mad-queen-2.png);
     width: 800px;
     height: 500px;
     background-size: contain;
@@ -48,7 +48,7 @@ body {
 }
 
 .sigil {
-    background-image: url(308-3087018_free-house-targaryen-sigil-png-game-of-thrones.png);
+    background-image: url(targaryen-toggle/308-3087018_free-house-targaryen-sigil-png-game-of-thrones.png);
     background-size: contain;
     width: 600px;
     height: 600px;
@@ -138,14 +138,14 @@ body {
 }
 
 .front {
-    background-image: url(coin-front.png);
+    background-image: url(targaryen-toggle/coin-front.png);
     width: 150px;
     height: 150px;
     background-size: cover;
 }
 
 .back {
-    background-image: url(coin-back.png);
+    background-image: url(targaryen-toggle/coin-back.png);
     width: 150px;
     height: 150px;
     background-size: cover;
