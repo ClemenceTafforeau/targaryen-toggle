@@ -24,7 +24,7 @@ body {
 
 .image {
     background-image: 
-    url("images/daenerys-great-3.png");
+    url("https://github.com/ClemenceTafforeau/targaryen-toggle/blob/main/daenerys-great-3.png?raw=true");
     width: 800px;
     height: 500px;
     background-size: contain;
@@ -38,7 +38,7 @@ body {
 
 .image[aria-pressed="true"] {
     background-image: 
-    url("images/Daenerys-mad-queen-2.png");
+    url("https://github.com/ClemenceTafforeau/targaryen-toggle/blob/main/Daenerys-mad-queen-2.png?raw=true");
     width: 800px;
     height: 500px;
     background-size: contain;
@@ -48,7 +48,7 @@ body {
 }
 
 .sigil {
-    background-image: url(images/308-3087018_free-house-targaryen-sigil-png-game-of-thrones.png);
+    background-image: url("https://github.com/ClemenceTafforeau/targaryen-toggle/blob/main/308-3087018_free-house-targaryen-sigil-png-game-of-thrones.png?raw=true");
     background-size: contain;
     width: 600px;
     height: 600px;
@@ -138,14 +138,14 @@ body {
 }
 
 .front {
-    background-image: url(images/coin-front.png);
+    background-image: url("https://github.com/ClemenceTafforeau/targaryen-toggle/blob/main/coin-front.png?raw=true");
     width: 150px;
     height: 150px;
     background-size: cover;
 }
 
 .back {
-    background-image: url(images/coin-back.png);
+    background-image: url("https://github.com/ClemenceTafforeau/targaryen-toggle/blob/main/coin-back.png?raw=true");
     width: 150px;
     height: 150px;
     background-size: cover;
